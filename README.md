@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓: I am a Computer Science student in LaSalle College in Montreal, Qc.<br><br>📝: I am learning  GoLang, and Swift<br><br>🗣: I speak 2 languages:  English and Persian <br><br>✉ : My Gmail account - - -> sarram.sor@gmail.com<br>
+🎓: I'm a Computer Science student in LaSalle College in Montreal, QC.<br><br>📝: Currently, I'm learning  GoLang, and Swift<br><br>✉ : You can contact me via : sarram.sor@gmail.com<br>
 
 
 ## 🌐 Socials:
