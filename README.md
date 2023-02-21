@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I'm a near graduation Computer Science student in LaSalle College,<br><br>🔭 Interested in web development,<br><br>🚀 Experienced in HTML, CSS, JavaScript, PHP, .Net Framework, and .Net Core technologies,<br><br>👀 Actively seeking internships or opportunities to apply my skills and gain real-world experience,<br><br>🔧 Familiar with different software development tools and methodologies such as Git, and Agile,<br><br>✉ You can reach me via: sarram.sor@gmail.com<br>
+🎓 A near-graduation Computer Science student in LaSalle College,<br><br>🔭 Interested in web development,<br><br>🚀 Experienced in HTML, CSS, JavaScript, PHP, .Net Framework, and .Net Core technologies,<br><br>👀 Actively seeking internships or opportunities to apply my skills and gain real-world experience,<br><br>🔧 Familiar with different software development tools and methodologies such as Git, and Agile,<br><br>✉ You can reach me via: sarram.sor@gmail.com<br>
 
 
 ## 🌐 Social:
